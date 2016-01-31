@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="empty_file_notification_sent">Bluetooth paylaşımı: Karşı taraf boş %1$s dosyasını reddetti</string>
+    <string name="empty_file_notification_sent">Hsan Bluetooth paylaşımı: Karşı taraf boş %1$s dosyasını reddetti</string>
     <string name="upload_fail_waiting">Dosya gönderilemedi. Yeniden deneniyor</string>
     <string name="permlab_bluetoothShareManager">İndirme yöneticisine erişin</string>
     <string name="permdesc_bluetoothShareManager">Uygulamaya bluetooth paylaşım yöneticisine erişme ve bunu dosyaları aktarmak için kullanma izni verir</string>
